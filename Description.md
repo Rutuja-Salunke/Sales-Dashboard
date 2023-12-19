@@ -1,4 +1,4 @@
-# Sales Insights Unleashed: Power BI Dashboard Project
+# Sales Harmony Unleashed: Empowering Decisions with Dynamic Power BI Insights
 
 - **Project Overview:**
   - Goal: Transforming sales data management for enhanced decision-making.
