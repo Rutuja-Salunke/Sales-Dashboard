@@ -14,15 +14,15 @@ Certainly! Here's a project description for "Sales Insights Revolution: Power BI
     - Create interactive and dynamic dashboards to provide a real-time overview of sales performance.
     - Incorporate key metrics, such as revenue, conversion rates, and product performance.
 
-  - ### **Data Integration:**
+  - **Data Integration:**
     - Integrate data sources from various sales channels, CRM systems, and other relevant platforms.
     - Ensure seamless connectivity and synchronization for up-to-date information.
 
-  -### **Predictive Analytics:**
+  - **Predictive Analytics:**
     - Implement machine learning models to forecast sales trends and identify potential opportunities.
     - Utilize historical data to make accurate predictions for future sales.
 
-  - ### **Customer Segmentation:**
+  -  **Customer Segmentation:**
     - Develop customer segmentation models to tailor marketing strategies and sales efforts.
     - Identify high-value customers and focus on personalized engagement.
 
