@@ -1,7 +1,8 @@
 #  Sales Insights Revolution: Power BI Mastery
 
 Revolutionize sales data management with Power BI. Our project crafts an intuitive dashboard, integrates customer analytics, forecasts future trends, and tells a compelling data story. Celebrate enhanced decision-making through successful implementation.
-Certainly! Here's a project description for "Sales Insights Revolution: Power BI Mastery" in bullet points:
+![Screenshot 2023-12-22 171343](https://github.com/Rutuja-Salunke/Sales-Dashboard/assets/102023809/72387c1f-7852-4d29-ad94-fb212ff8e9b4)
+
 
 - **Project Overview:**
   - Develop a comprehensive Power BI solution for revolutionizing sales insights within the organization.
